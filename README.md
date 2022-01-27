@@ -9,11 +9,11 @@ It's Flask, Sqlalchemy Web-app.
 
 
 
-Used pillow, and some Flask extensions.
+- Used pillow, and some Flask extensions.
 
-For Password reset SMTP server based from gmail.(You have to use your own email and password.)
+- For Password reset SMTP server based from gmail.(You have to use your own email and password.)
 
-Project is going to used as a school blog web.
+- Project is going to used as a school blog web.
 ------------------------------------------------------------------------------------------------------
 
           SOME PHOTOS
