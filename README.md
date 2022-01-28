@@ -14,6 +14,12 @@ It's Flask, Sqlalchemy Web-app.
 - For Password reset SMTP server based from gmail.(You have to use your own email and password.)
 
 - Project is going to used as a school blog web.
+
+
+# Project details:
+- Project can be used as a Twitter clone, but there is no admin-panel to do some changes or restricts.
+- Fast web app.( Used some C, C#, libraries so, web app's some parts are working very fast ) *tested on Linux Server.
+
 ------------------------------------------------------------------------------------------------------
 
           SOME PHOTOS
